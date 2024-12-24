@@ -7,6 +7,8 @@ Goal: one controllable character with basic abilities + one very simple AI enemy
 
 Useful Cheats: AbilitySystem.Debug.BasicHud, AbilitySystem.DebugAbilityTags
 
+Video: https://drive.google.com/file/d/14ytWYUoqWC371e3N5ZRzgig2QTP9ZKFs/view?usp=sharing
+
 ## Controls
  - WASD - Move
  - Mouse - Look
