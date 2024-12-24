@@ -1,0 +1,7 @@
+#pragma once
+
+#include "Logging/LogMacros.h"
+
+PERFECTCITY_API DECLARE_LOG_CATEGORY_EXTERN(LogPC, Log, All);
+PERFECTCITY_API DECLARE_LOG_CATEGORY_EXTERN(LogPlayerCharacter, Log, All);
+PERFECTCITY_API DECLARE_LOG_CATEGORY_EXTERN(LogPCAbilitySystem, Log, All);
